@@ -1,8 +1,3 @@
-const static = require('node-static')
-
-
-
-
 const portfolio = () => {return `<!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
