@@ -71,3 +71,5 @@ const portfolio = () => {return `<!DOCTYPE html>
 
 </body>
 </html>`};
+
+portfolio();
