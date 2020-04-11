@@ -1,0 +1,24 @@
+{
+  "name": "basic-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmpcoding/basic-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmpcoding/basic-portfolio/issues"
+  },
+  "homepage": "https://github.com/rmpcoding/basic-portfolio#readme"
+}
