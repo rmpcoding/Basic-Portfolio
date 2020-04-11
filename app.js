@@ -1,4 +1,4 @@
-const portfolio = return `<!DOCTYPE html>
+const portfolio = () => {return `<!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -70,4 +70,4 @@ const portfolio = return `<!DOCTYPE html>
 </div>
 
 </body>
-</html>`;
+</html>`};
