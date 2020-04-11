@@ -1,4 +1,5 @@
-const portfolio = () => {return `<!DOCTYPE html>
+const portfolio = () => {
+    return `<!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -8,7 +9,7 @@ const portfolio = () => {return `<!DOCTYPE html>
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-center" style="max-width:1500px">
-  <img class="w3-image" src="./Assets/purple-tree.jpg" alt="Me" width="1500" height="600">
+  <img class="w3-image" src="../Assets/purple-tree.jpg" alt="Me" width="1500" height="600">
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Robert Parsons</h1>
     <h5 class="w3-hide-large" style="white-space:nowrap">Robert Parsons</h5>
@@ -70,6 +71,7 @@ const portfolio = () => {return `<!DOCTYPE html>
 </div>
 
 </body>
-</html>`};
+</html>`;
+};
 
 portfolio();
