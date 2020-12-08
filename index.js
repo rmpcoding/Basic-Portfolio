@@ -1,6 +1,5 @@
 const static = require('node-static')
 
-
 const file = new static.Server('./public');
 
 require('http').createServer(function(req, res) {
@@ -8,5 +7,3 @@ require('http').createServer(function(req, res) {
     file.serve(req, res);
     }).resume();
 }).listen(process.env.PORT || 8080);
-
-
